@@ -74,10 +74,6 @@ Sub Assembly Line의 4개 주요 공정 데이터를 활용
 pandas, numpy, scikit-learn, xgboost, lightgbm, matplotlib, seaborn
 ```
 
-## 실행 방법
-
-```bash
-pip install pandas numpy scikit-learn xgboost lightgbm matplotlib seaborn tqdm
 
 jupyter notebook notebook.ipynb
 ```
