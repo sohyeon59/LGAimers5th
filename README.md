@@ -73,7 +73,3 @@ Sub Assembly Line의 4개 주요 공정 데이터를 활용
 ```
 pandas, numpy, scikit-learn, xgboost, lightgbm, matplotlib, seaborn
 ```
-
-
-jupyter notebook notebook.ipynb
-```
